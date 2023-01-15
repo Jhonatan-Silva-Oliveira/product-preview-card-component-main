@@ -4,6 +4,10 @@
 
 ## Welcome! 👋
 
+This site is live at GitHub Pages: https://jhonatan-silva-oliveira.github.io/product-preview-card-component-main/
+
+Last deployed by @Jhonatan-Silva-Oliveira
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
